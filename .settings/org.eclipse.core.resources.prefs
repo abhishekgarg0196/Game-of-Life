@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/game/of/life/Board/AliveCell.java=UTF-8
+encoding//src/main/java/com/game/of/life/Board/DeadCell.java=UTF-8
+encoding//src/main/java/com/game/of/life/Enum/CellStatus.java=UTF-8
+encoding//src/main/java/com/game/of/life/Utility/GameUtil.java=UTF-8

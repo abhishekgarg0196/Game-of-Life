@@ -1,2 +1,13 @@
-# Game-of-Life
-According to Wikipedia's article: "The Game of Life, also known simply as Life, is a cellular automaton devised by the British mathematician John Horton Conway in 1970."
+Game of Life
+=========
+
+`Game of Life` implementation in Java console output.
+
+## Usage
+
+Execute Controller class resides in `com.game.of.life.Game package`
+Sample input is present in the main method to provide the 2D array input of board.
+
+## Requirements
+
+* Java
